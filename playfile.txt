@@ -1,1 +1,2 @@
 this is the file to be played with git command
+I want to play cricket
